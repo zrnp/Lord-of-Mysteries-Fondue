@@ -1,4 +1,4 @@
-#[克中心]苟三家火锅牌老爷爷
+# [克中心]苟三家火锅牌老爷爷
 
 作者：<a rel="author" href="https://archiveofourown.org/users/zrnp/pseuds/zrnp">zrnp</a>
 
