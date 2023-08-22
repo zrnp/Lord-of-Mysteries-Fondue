@@ -22,7 +22,8 @@
           "-search", 
           "search-pro",
 		  "splitter",
-		  "custom-favicon"
+		  "custom-favicon",
+		  "accordion"
     ],
     "pluginsConfig": {
         "hide-element": {
