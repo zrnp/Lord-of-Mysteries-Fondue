@@ -1,0 +1,97 @@
+@font-face {
+    font-family: TNR;
+    src: local("times"),
+    url("times.ttf");
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face {
+    font-family: TNR;
+    src: local("timesi"),
+    url("timesi.ttf");
+    font-weight:normal;
+    font-style:italic;}
+@font-face {
+    font-family: TNR;
+    src: local("timesi"),
+    url("timesi.ttf");
+    font-weight:normal;
+    font-style:oblique;}
+@font-face {
+    font-family: TNR;
+    src: local("timesbi"),
+    url("timesbi.ttf");
+    font-weight:bold;
+    font-style:italic;}
+@font-face {
+    font-family: TNR;
+    src: local("timesbi"),
+    url("timesbi.ttf");
+    font-weight:bold;
+    font-style:oblique;}
+@font-face {
+    font-family: TNR;
+    src: local("timesbd"),
+    url("timesbd.ttf");
+    font-weight:bold;
+    font-style:normal;}
+  .byline {
+    display: block;
+    text-align: center
+    }
+.calibre3 {
+    display: block;
+    font-weight: bold;
+    margin: 0
+    }
+.calibre4 {
+    display: block;
+    margin: 0 0 1em 1em
+    }
+.calibre5 {
+    display: block;
+    margin: 0 0 0 1em
+    }
+.message {
+    display: block;
+    text-align: center;
+    margin: 1em 0
+    }
+img{max-width:100%;}
+.note{font-family:'华文仿宋','仿宋',serif;}
+h1{font-size:1.4em;text-align:center;}
+h2{font-size:1.24em;text-align:center;}
+blockquote {
+    padding: 0 0.5em;
+    margin: 0 1em;
+    border-left: 4px solid #888888;
+}
+p{
+  font-family:"TNR",Times New Roman,serif;
+  display: block;}
+hr {
+  -moz-box-sizing: content-box;
+  -webkit-box-sizing: border-box;
+  background-color: #888;
+  box-sizing: border-box;
+  color: gray;
+  display: block;
+  font-size: 1em;
+  height: 4px;
+  overflow: hidden;
+  margin: 1.6em 0;
+  padding: 0;
+  border: currentColor none medium;
+}
+hr:after{
+  content:" ";
+  display:table;}
+hr:before{
+  content:" ";
+  display:table;}
+.toc-heading{display:none;}
+.endnote-link {
+    display: block;
+    font-size: 0.75em
+    }
+.endnote-link{font-size:0.8em;}
